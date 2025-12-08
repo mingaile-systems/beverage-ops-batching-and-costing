@@ -1,5 +1,5 @@
 # beverage-ops-batching-and-costing
-Cocktail costing &amp; batch planning (kegs and large format containers) with Tableau-ready exports.
+Cocktail costing &amp; batch planning (kegs and large format containers) with inventory module intergration.
 # Bar Operations — Cocktail Batching & Costing
 
 A practical workbook for cocktail recipe costing and batch planning across single-serve and large-format containers. 
